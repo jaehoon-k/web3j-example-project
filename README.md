@@ -1,3 +1,10 @@
+# web3j-example-project
+web3j-example-project 는 web3j 를 이용한 Java Project 에서 ChainZ Besu 테스트넷에 배포되어 있는 SimpleCoin 스마트컨트랙트와 연동하는 방법을 간략히 보여주며 다음 기능들을 포함한다.
+- web3j Instance 생성
+- Wallet File 로부터 Credentil 설정
+- Call Transaction 전송
+- Send Transaction 전송
+
 # 개요
 
 web3j 는 이더리움 노드와 통신 및 이더리움 네트워크에 배포되어 있는 스마트컨트랙트와 연동에 필요한 자바 라이브러리 이다.
