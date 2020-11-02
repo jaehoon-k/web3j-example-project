@@ -1,6 +1,6 @@
 # 개요
 
-web3j 는 이더리움 노드와 통신 및 이더리움 네틑워크에 배포되어 있는 스마트컨트랙트와 연동에 필요한 자바 라이브러리 이다.
+web3j 는 이더리움 노드와 통신 및 이더리움 네트워크에 배포되어 있는 스마트컨트랙트와 연동에 필요한 자바 라이브러리 이다.
 ![enter image description here](http://docs.web3j.io/img/web3j_network.png)
 출처: docs.web3j.io
 
