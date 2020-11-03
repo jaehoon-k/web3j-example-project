@@ -5,6 +5,11 @@ web3j-example-project 는 web3j 를 이용한 Java Project 에서 ChainZ Besu �
 - Call Transaction 전송
 - Send Transaction 전송
 
+web3j-example-project 를 실행하면 다음과 같은 동작을 수행한다.
+- 사용자 계정의 현재 잔고 확인 (Call Transaction)
+- 사용자 계정으로 토큰(수량:100) 발행 (Send Transaction)
+- 사용자 계정의 최종 잔고 확인 (Call Transaction)
+
 # 개요
 
 web3j 는 이더리움 노드와 통신 및 이더리움 네트워크에 배포되어 있는 스마트컨트랙트와 연동에 필요한 자바 라이브러리 이다.
